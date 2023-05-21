@@ -119,9 +119,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>ChatGPT Next</div>
+        <div className={styles["sidebar-title"]}>懒懒速成班</div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          可免费使用ChatGPT及绘图等，更多合作联系客服18600679193
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
